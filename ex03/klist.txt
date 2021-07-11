@@ -1,0 +1,7 @@
+Credentials cache: API:91392
+        Principal: wmaguire@CODAM.NL
+
+  Issued                Expires               Principal
+Jul 11 09:50:02 2021  Jul 11 19:50:02 2021  krbtgt/CODAM.NL@CODAM.NL
+Jul 11 09:50:04 2021  Jul 11 19:50:02 2021  ldap/ldap-kdc.codam.nl@CODAM.NL
+Jul 11 09:50:04 2021  Jul 11 19:50:02 2021  HTTP/storage-student.codam.nl@CODAM.NL
